@@ -1,0 +1,22 @@
+{
+  "name": "Keuangan Rumah Tangga Super",
+  "short_name": "Keuangan Kita",
+  "description": "Aplikasi Manajemen Keuangan Bersama Suami & Istri",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4338ca",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2953/2953363.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2953/2953363.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
